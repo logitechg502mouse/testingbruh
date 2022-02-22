@@ -17,6 +17,10 @@ public class TestDocumentNewNet {
         // TODO code application logic here
         System.out.print("HI");
         System.out.println("hi");
+        System.out.print("HI");
+        System.out.println("hi");
+        System.out.print("HI");
+        System.out.println("hi");
     }
     
 }
